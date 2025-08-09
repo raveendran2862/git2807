@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 sales,Income,Age
 12,150000,30
 23,154655,34
+=======
+Sales,Income,Salary
+1234,5678,9087
+>>>>>>> bdab8eac2543ebb2307d2fc902e0a1b510001bd7
